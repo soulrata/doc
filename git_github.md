@@ -211,3 +211,5 @@ git merge otra-rama
 git branch -d rama
 git push origin --delete rama
 ```
+
+---
